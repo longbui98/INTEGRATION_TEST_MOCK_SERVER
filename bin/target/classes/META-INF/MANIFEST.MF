@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 17
+Class-Path: lib/retrofit-2.9.0.jar lib/okhttp-3.14.9.jar lib/okio-1.17.2
+ .jar lib/converter-gson-2.9.0.jar lib/gson-2.8.5.jar
+Main-Class: com.udacity.timezones.Main
+Created-By: Maven Integration for Eclipse
+
